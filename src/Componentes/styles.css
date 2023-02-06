@@ -1,0 +1,12 @@
+.contenedor{
+    background-color: rgb(184, 132, 37);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.fotos{
+    border: solid black;
+}
